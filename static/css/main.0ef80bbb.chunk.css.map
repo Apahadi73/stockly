@@ -1,0 +1,1 @@
+{"version":3,"sources":["Stock.css","App.css"],"names":[],"mappings":"AAAA,iBACA,WAAY,CACV,YAAa,CACb,iBACF,CCJA,KACI,wBAAwB,CACzB,+BAAiC,CACjC,WACH","file":"main.0ef80bbb.chunk.css","sourcesContent":[".stock-component{\nmargin: auto;\n  padding: 10px;\n  text-align: center;\n}\n\n","body{\n    background-color:#91d18b;\n   font-family: 'Roboto', sans-serif;\n   margin:1rem;\n}"]}

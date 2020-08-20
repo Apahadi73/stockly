@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stockly/static/css/main.0ef80bbb.chunk.css",
+    "main.js": "/stockly/static/js/main.27dce7ae.chunk.js",
+    "main.js.map": "/stockly/static/js/main.27dce7ae.chunk.js.map",
+    "runtime-main.js": "/stockly/static/js/runtime-main.b336d253.js",
+    "runtime-main.js.map": "/stockly/static/js/runtime-main.b336d253.js.map",
+    "static/js/2.5918e9ee.chunk.js": "/stockly/static/js/2.5918e9ee.chunk.js",
+    "static/js/2.5918e9ee.chunk.js.map": "/stockly/static/js/2.5918e9ee.chunk.js.map",
+    "index.html": "/stockly/index.html",
+    "precache-manifest.dae00be6fea0ae28b2a74a14ac7820df.js": "/stockly/precache-manifest.dae00be6fea0ae28b2a74a14ac7820df.js",
+    "service-worker.js": "/stockly/service-worker.js",
+    "static/css/main.0ef80bbb.chunk.css.map": "/stockly/static/css/main.0ef80bbb.chunk.css.map",
+    "static/js/2.5918e9ee.chunk.js.LICENSE.txt": "/stockly/static/js/2.5918e9ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b336d253.js",
+    "static/js/2.5918e9ee.chunk.js",
+    "static/css/main.0ef80bbb.chunk.css",
+    "static/js/main.27dce7ae.chunk.js"
+  ]
+}
